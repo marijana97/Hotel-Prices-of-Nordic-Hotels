@@ -1,4 +1,4 @@
-# Hotel-Prices-of-Nordic-Hotels
+# Room-Prices-of-Nordic-Hotels
 **Scandic** is the largest Nordic hotel operator with a network of about 280 hotels with 58,000 rooms in operation and under development in the Nordic countries. Most hotels are located in **Norway, Sweden, Finland and Denmark**, but the company also has a presence in Germany and Poland.
 
 
